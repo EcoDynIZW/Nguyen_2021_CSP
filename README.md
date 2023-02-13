@@ -1,4 +1,4 @@
-# Nguyen et al. 2021 *Conservation Science and Practice*
+# Nguyen et al. (2021) *Conservation Science and Practice*
 
 
 > **Thanh van Nguyen**, **Andreas Wilting**, **Jürgen Niedballa**, **An Nguyen**, Benjamin Rawson, Anh Nguyen, Trung Cao, Oliver Wearn, Anh Dao, **Andrew Tilker** (2022), Getting the big picture: Landscape-scale occupancy patterns of two Annamite endemics among multiple protected areas. *Conservation Science and Practice* e620. https://doi.org/10.1111/csp2.620
